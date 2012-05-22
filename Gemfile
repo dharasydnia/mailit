@@ -17,4 +17,7 @@ gem 'jquery-rails'
 
 gem 'mail', '2.4.4'
 
-gem 'postgres-pr'
+#gem 'postgres-pr'
+group :production do
+  gem 'pg'
+end
