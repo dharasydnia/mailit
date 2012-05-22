@@ -16,3 +16,5 @@ end
 gem 'jquery-rails'
 
 gem 'mail', '2.4.4'
+
+gem 'postgres-pr'
