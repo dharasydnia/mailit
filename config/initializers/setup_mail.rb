@@ -1,9 +1,9 @@
 ActionMailer::Base.smtp_settings = {
   :address              => "smtp.gmail.com",
   :port                 => 25,
-  :domain               => "mail.rightwaysolution.com",
-  :user_name            => "test@rightwaysolution.com",
-  :password             => "test@123",
+  :domain               => "google.com",
+  :user_name            => "dharasydnia@gmail.com",
+  :password             => "dhara123",
   :authentication       => "plain",
   :enable_starttls_auto => true
 }
